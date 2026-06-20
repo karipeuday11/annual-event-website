@@ -1,0 +1,46 @@
+.total-bg{
+    background-color: aliceblue;
+}
+
+.head-bg{
+    background-color: rgb(4, 19, 72);
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+.text{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(4, 4, 97);
+    margin-left: 5px;
+}
+
+.red-bg{
+    color: red;
+    font-weight: bold;
+}
+
+.middle-bg{
+    text-align: center;
+}
+
+ol{
+    background-color: white;
+}
+
+ul{
+    text-align: center;
+}
+
+.back-bg{
+    text-align: center;
+}
+
+.back-bg{
+    margin-left: 45%;
+}
